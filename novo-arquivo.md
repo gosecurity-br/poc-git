@@ -1,7 +1,8 @@
-#Criação de novo arquivo na mybranch
+##Criação de novo arquivo na mybranch
 
-Start code '--carlos' com opção de '--charlie'
-'''bash
+Start code `--carlos` com opção de `--charlie`
+```bash
 git add meurepo
+
 
 
